@@ -1,0 +1,60 @@
+.container {
+	max-width: 1250px;
+	max-height: 9000px;
+    margin: 40px auto;
+    border:solid 2px black;
+    background:url(imagen/white-crumpled-paper-macro-white-paper-texture-white-paper-vintage-texture.jpg);
+}
+body{
+    margin: 0px;
+    font-size: 17px;
+    padding-top: 0px;
+    font-family: "Times New Roman", Times, serif;
+    background:url(imagen/personas-todas-nacionalidades-mascaras_23-2148527473.jpg);
+}
+.tbDatos{
+    text-align: center;  
+
+}
+.striped{
+    text-align: center;   
+}
+.row{
+    text-align: left; 
+}
+p{
+    margin-bottom: 2rem;
+    font-size:18px;
+    text-align: center; 
+	line-height: 1;
+	color: black;
+}
+h1{
+	font-size:30px;
+	text-transform: uppercase;
+	font-weight: 400;
+	color: black;
+
+}
+h5{
+	font-size:20px;
+	text-transform: uppercase;
+	color: black;
+
+}
+.wrapper{
+    color: white;
+}
+.tabla{
+    max-width: 1150px;
+    max-height: 5000px;
+    border:solid 3px black;
+}
+.tabla1{
+    max-width: 1150px;
+    max-height: 5000px;
+    border:solid 2px white;
+}
+.page-item{
+    text-align: center;  
+}
